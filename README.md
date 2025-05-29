@@ -6,8 +6,11 @@ weibu query on Windows based on Python by shortcut key🖐🖐🖐
 模拟ctrl+c复制，读取文本正则匹配IP，依次遍历查询
 
 ### 配置
-1、需使用微步的API key，请在query.py，16行配置
-2、微步需配置出口IP，如自建代理，请在query.py，8-9行配置
+1. 需使用微步的API key，请在query.py，16行配置
+2. 微步需配置出口IP，如自建代理，请在query.py，8-9行配置
+![image](https://github.com/user-attachments/assets/6e3b6e93-1e84-40cb-bbd9-c24a3df6e64d)
+
+
 
 ### 安装
 ```
