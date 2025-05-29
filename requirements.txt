@@ -1,0 +1,5 @@
+requests>=2.32.3
+pynput>=0
+pyperclip>=0
+pywin32>=0
+PySocks>=0
