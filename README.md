@@ -1,9 +1,16 @@
 # weibu_F8
 weibu query on Windows based on Python by shortcut key🖐🖐🖐
-基于python，windows上的微步快捷键查询
+基于python，windows上的weibu快捷键查询
+
+![动画1](https://github.com/user-attachments/assets/f3a23d71-6ae7-4152-b0f5-5a61aac4bb53)
+
 
 ### 原理
-模拟ctrl+c复制，读取文本正则匹配IP，依次遍历查询
+- 模拟ctrl+c复制，读取文本正则匹配IP，依次遍历查询
+- hotkey——快捷键功能
+- query——api调用weibu接口
+- display——窗口展示功能
+
 
 ### 配置
 1. 需使用微步的API key，请在query.py，16行配置
