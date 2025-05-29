@@ -30,8 +30,8 @@ python hotkey.py
 ```
 
 ### 快捷键
-F8——识别选中文本——hotkey，75行修改
-esc——关闭结果窗口——display，83行修改
+- F8——识别选中文本——hotkey，75行修改
+- esc——关闭结果窗口——display，83行修改
 
 ### 功能模块独立验证
 
